@@ -123,3 +123,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pyinstaller stuff
+.build/
+.dist/
+tetris.spec
+logo.ico
+
+# Jetbrains
+.idea/
