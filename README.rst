@@ -1,4 +1,4 @@
-Shitty Tetris
+TetraMania
 ==============
 | This is a Tetris clone that I made in python using pygame. It took three days, wasn't too much fun, but if you don't look at the code I am proud of it.
 | Cheers.

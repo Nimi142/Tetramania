@@ -224,7 +224,7 @@ try:
     pygame.display.set_icon(pygame.image.load("logo.png"))
 except FileNotFoundError:
     print("Couldn't find logo! Running anyway....")
-pygame.display.set_caption('Shitty Tetris')
+pygame.display.set_caption('TetraMania')
 clock = pygame.time.Clock()
 pygame.draw.rect(screen, inactive_color, pygame.Rect(0, 0, 600, 600))
 # Draw board background
